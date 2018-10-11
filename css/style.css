@@ -1,0 +1,120 @@
+      .header {
+      height:30px;
+    }
+      .zgrada {
+      width:600px;
+      background-color:grey;
+      margin: 0 auto;
+    }
+    .gore {
+        overflow: auto;
+    }
+    .katovi {
+      overflow: auto;
+    }
+    .kat {
+      overflow: auto;
+    }
+    .zid {
+      display:inline;
+      background-color:grey;
+      width:100px;
+      float: left;
+    }
+    .reklama {
+      background-color:green;
+      height:260px;
+      background-image:url("../img/reklama.png");
+      background-size:cover;
+      background-repeat:no-repeat;
+    }
+    .reklama-konzum {
+      position: relative;
+      background-color:red;
+      height:100px;
+      top: 240px;
+      background-image:url("../img/reklama-konzum.png");
+      background-size:cover;
+      background-repeat:no-repeat;
+    }
+    .balkon {
+      display:inline;
+      float: left;
+      background-color:#855;
+      width:96px;
+      height:50px;
+      margin:1px;
+      background-image:url("../img/balkon.png");
+      background-size:cover;
+      Background-repeat:no-repeat;
+    }
+    .prozor {
+      display: inline;
+      float: left;
+      background-color:rgba(0,0,0,0);
+      height:10px;
+      width:25px;
+      margin-right:5px;
+      border:1px solid;
+      border-color:white;
+    }
+    .prozori {
+      overflow: auto;
+    }
+    .ograda{
+      height:8px;
+      background-color:white;
+    }
+    .prizemlje {
+      background-color:#321;
+    }
+    .ulaz{
+      height:70px;
+      background-color:#544;
+      display: inline;
+      float: left;
+      Width:300px;
+      background-image:url("../img/ulaz.png");
+      background-size:contain;
+      Background-repeat:no-repeat;
+    }
+    .knjiznica{
+      height:50px;
+      background-color:#344;
+      display: inline;
+      float: right;
+      width:50%;
+    }
+    .vrata{
+      display: inline;
+      float: right;
+      width:65px;
+      background-color:#123;
+      height:70px;
+      background-image:url("../img/vrata.png");
+      background-size:cover;
+      Background-repeat:no-repeat;   
+    }
+    .knjiznica-ulaz{
+    display: inline;
+    float: left;
+    width:20%;
+    background-color:#987;
+    height:70px;
+    background-image:url("../img/knjiznica-ulaz.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    }
+    .knjiznica-prozori{
+      display:inline;
+      float:left;
+      width:80%;
+      Height:70px;
+      Background-color:grey;
+      background-image:url("../img/knjiznica-prozori.png");
+      background-size:contain;
+      background-repeat:no-repeat;
+    }
+    .footer{
+     height: 120px;
+    }
